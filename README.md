@@ -5,7 +5,7 @@ Here I have added server side code. It is developing on .NET Core 6
 
   ## Project  -------------  Description 
   
-  Flone	    -------------   Project for controllers, mapping between domain model and API model, API configuration
+  Flone.Web	 -------------   Project for controllers, mapping between domain model and API model, API configuration
 
   Flone.Api.Common	 -----   At this point, there are collected exception classes that are interpreted in a certain way by filters to return correct HTTP codes with errors to the user
 
